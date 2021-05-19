@@ -1,10 +1,3 @@
-# mini_curso_JS_POO
-
-Tópicos abordados: --> POO --> Classes e Objetos --> Construtor --> Setters e Getters --> Encapsulamento --> Herança e Métodos Estáticos --> Polimorfismo --> Atividade
-
-Vídeos com as aulas: 
-
-
 <h1 align="center">
   <img alt="LogoTecEdu4All" src="http://materiaisaulas.tecedu4all.com.br/canal/logo.png" width="120px" />
 </h1>
